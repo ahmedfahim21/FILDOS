@@ -107,6 +107,8 @@ FILDOS uses ERC-721 NFTs for folder management:
 
 Contract deployment on Filecoin Calibration testnet.
 
+<a href="https://filecoin-testnet.blockscout.com/address/0x1fd2A69f9b6596e4520E65137c8CefdD0D07C491?tab=index">Deployed Contract</a>
+
 ## 🎨 UI Components
 
 Built with modern, accessible components:
